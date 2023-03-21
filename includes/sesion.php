@@ -1,6 +1,6 @@
 <div class="sidebar pe-4 pb-3">
     <nav class="navbar bg-light navbar-light">
-        <a href="index.html" class="navbar-brand mx-4 mb-3">
+        <a href="index.php" class="navbar-brand mx-4 mb-3">
 
             <h3 class="text-primary"><i class="fas fa-seedling"></i>IRC</h3>
         </a>
@@ -50,7 +50,7 @@
 <div class="content">
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand bg-light navbar-light sticky-top px-4 py-0">
-        <a href="index.html" class="navbar-brand d-flex d-lg-none me-4">
+        <a href="index.php" class="navbar-brand d-flex d-lg-none me-4">
             <h2 class="text-primary mb-0"><i class="fas fa-seedling"></i></h2>
         </a>
         <a href="#" class="sidebar-toggler flex-shrink-0">
